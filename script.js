@@ -62,8 +62,7 @@ class Stopwatch {
       this.print();
   
     }
-  
-  
+
   }
   
   function pad0(value) {
